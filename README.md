@@ -1,2 +1,2 @@
 # Python_exercise
-Repository for Python exercises solved by me
+Repository for Python exercises
